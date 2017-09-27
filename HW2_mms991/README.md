@@ -2,12 +2,11 @@
 # Homework 2
 
 I worked with Bianca Brusco (bb1569) and Gokmen Dedemen (gd1097) on assigments 1 through 3.
-Bianca wrote the code for Jupyter notebook in assignment 3 and wrote independent code for assigment 1.
+Bianca wrote the code for Jupyter notebook in assignment 3 and wrote independent code for assigment 1/2.
 Gokmen wrote indpendent code for both assignment 1 and 2.
 
 We all reviewed and discussed the code for each assigment, contributing small changes throughout.
-The code I submitted for these assigments were not from original and largely drew on the code written by Bianca and Gokmen.
-(I did write some code for assignments independently though I did not submit this [I am having some technically difficulties].)
+The code I submitted for these assigments were not original and largely drew on the code written by Bianca and Gokmen.
 
 ## Assignment 1 and 2:
 For assignment, we were tasked to pull MTA bus data for a given line from the API available on the MTA's website.
