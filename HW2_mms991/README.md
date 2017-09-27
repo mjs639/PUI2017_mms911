@@ -1,6 +1,5 @@
-#README.md
 
-Homework 2
+# Homework 2
 
 I worked with Bianca Brusco (bb1569) and Gokmen Dedemen (gd1097) on assigments 1 through 3.
 Bianca wrote the code for Jupyter notebook in assignment 3 and wrote independent code for assigment 1.
